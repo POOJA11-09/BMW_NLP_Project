@@ -1,7 +1,8 @@
-# BMW_NLP_Project
+# BMW AI Strategic Intelligence Engine
 
-graph TD
+## System Architecture
 
+```mermaid
     subgraph Presentation Layer
         A[CEO/User]
         B[Streamlit Dashboard]
@@ -58,4 +59,13 @@ graph TD
     O --> P
     O --> Q
     O --> R
+```
+
+## Technologies Used
+
+- Python
+- Streamlit
+- Hugging Face API
+- NLP
+- AI Agent Workflow
 
