@@ -1,7 +1,6 @@
 # BMW AI Strategic Intelligence Engine
 
 ## System Architecture
-
 ```mermaid
 flowchart TB
 
@@ -69,7 +68,6 @@ flowchart TB
     O --> R
     O --> S
 ```
-
 ## Technologies Used
 
 - Python
